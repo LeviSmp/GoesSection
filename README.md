@@ -1,7 +1,6 @@
-
+ ![A tech logo,circuit logo](https://user-images.githubusercontent.com/129389927/236314285-02580a2e-a464-417a-83db-4fd0e0615d26.png)
 <h1 align="center"> GóesSection </h1>
-<h4 align="center"> 
-![descrição da imagem](https://www.canva.com/design/DAFh-Goi-Gw/WWKF8wh1F0qbNTi6XE61nw/view?utm_content=DAFh-Goi-Gw&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+<h4 align="center">
     :construction:  Projeto em construção  :construction:
 </h4>
 O GoesSection é um site desenvolvido por estudantes, que focara no que seria bom e acrescentativo na comunidade escolar. Visando a propagação de iniciativas colaborativas e que criam relações entre os alunos para beneficiar-los.
