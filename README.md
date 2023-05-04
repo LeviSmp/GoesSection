@@ -19,7 +19,7 @@ O GoesSection é um site desenvolvido por estudantes, que focara no que seria bo
 
 # Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Jennifer Nascimento</sub>](https://github.com/RochaJennifer) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Levi Sampaio</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Jennifer Nascimento</sub>](https://github.com/RochaJennifer) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Levi Sampaio</sub>](https://github.com/LeviSmp) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Lorena Souza</sub>](https://github.com/alexfelipe) |
 | :---: | :---: | :---: |
 
 
