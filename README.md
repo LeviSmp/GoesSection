@@ -3,8 +3,8 @@
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
-O GoesSection é um site desenvolvido por estudantes, que focaram no que seria bom e acrescentativo na comunidade escolar. Visando a propagação de iniciativas colaborativas e que criam relações entre os alunos para beneficiar-los.
- Tendo em vista que, deve-se focar em informações e atividades de cunho escolar. O site tem sub-páginas voltadas para jornal escolar, oficinas, atividades extracurriculares, informação de vagas de estágio, grupo de estudos, e continua em constante desenvolvimento para melhorias ainda melhores.
+O GoesSection é um site desenvolvido por estudantes, que focara no que seria bom e acrescentativo na comunidade escolar. Visando a propagação de iniciativas colaborativas e que criam relações entre os alunos para beneficiar-los.
+ Tendo em vista que, deve-se focar em informações e atividades de cunho escolar. O site tem sub-páginas voltadas para jornal escolar, oficinas, atividades extracurriculares voltados para a área de informática.
  
  # :hammer: Funcionalidades do projeto
 
@@ -12,8 +12,14 @@ O GoesSection é um site desenvolvido por estudantes, que focaram no que seria b
 - `Extracurriculares`: Atividades extras na área de informática, para fazer junção da teória coma a prática.
 - `Jornal Escolar`: Nóticias relacionadas a tudo que agrega a comunidade escolar.
 
-# :hammer: Teénicas e tecnologias utilizadas
+# :hammer: Técnicas e tecnologias utilizadas
 
--`HTML´
-- `CSS´
--
+- `HTML`
+- `CSS`
+
+# Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |
+
+
