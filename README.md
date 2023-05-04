@@ -1,6 +1,7 @@
 
 <h1 align="center"> GóesSection </h1>
 <h4 align="center"> 
+![descrição da imagem](https://www.canva.com/design/DAFh-Goi-Gw/WWKF8wh1F0qbNTi6XE61nw/view?utm_content=DAFh-Goi-Gw&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
     :construction:  Projeto em construção  :construction:
 </h4>
 O GoesSection é um site desenvolvido por estudantes, que focara no que seria bom e acrescentativo na comunidade escolar. Visando a propagação de iniciativas colaborativas e que criam relações entre os alunos para beneficiar-los.
@@ -19,7 +20,7 @@ O GoesSection é um site desenvolvido por estudantes, que focara no que seria bo
 
 # Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Jennifer Nascimento</sub>](https://github.com/RochaJennifer) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Levi Sampaio</sub>](https://github.com/LeviSmp) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Lorena Souza</sub>](https://github.com/alexfelipe) |
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Jennifer Nascimento</sub>](https://github.com/RochaJennifer) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Levi Sampaio</sub>](https://github.com/LeviSmp) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Lorena Souza</sub>](https://github.com/LorenaSouza2) |
 | :---: | :---: | :---: |
 
 
