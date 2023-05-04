@@ -12,3 +12,8 @@ O GoesSection é um site desenvolvido por estudantes, que focaram no que seria b
 - `Extracurriculares`: Atividades extras na área de informática, para fazer junção da teória coma a prática.
 - `Jornal Escolar`: Nóticias relacionadas a tudo que agrega a comunidade escolar.
 
+# :hammer: Teénicas e tecnologias utilizadas
+
+-`HTML´
+- `CSS´
+-
