@@ -8,8 +8,8 @@ O GoesSection é um site desenvolvido por estudantes, que focara no que seria bo
  
  # :hammer: Funcionalidades do projeto
 
-- `Oficinas`: desenvolvido pelos alunos com objetivo de criar projetos voltados para a intregação e desenvolvimento escolar em conjunto.
-- `Extracurriculares`: Atividades extras na área de informática, para fazer junção da teória coma a prática.
+- `Oficinas`: desenvolvido pelos alunos com objetivo de criar projetos voltados para a intregação e desenvolvimento escolar em conjunto:
+- `Extracurriculares`: Atividades extras na área de informática, para fazer junção da teória coma a prática:
 - `Jornal Escolar`: Nóticias relacionadas a tudo que agrega a comunidade escolar.
 
 # :hammer: Técnicas e tecnologias utilizadas
