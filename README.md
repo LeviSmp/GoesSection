@@ -22,6 +22,6 @@ O GoesSection é um site desenvolvido por estudantes, que focara no que seria bo
 - aaa
 # Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/129389927?s=400&v=4" width=115><br><sub>Jennifer Nascimento</sub>](https://github.com/RochaJennifer) |  [<img src="https://avatars.githubusercontent.com/u/129390549?v=4" width=115><br><sub>Levi Sampaio</sub>](https://github.com/LeviSmp) |  [<img src="https://avatars.githubusercontent.com/u/131969913?v=4" width=115><br><sub>Lorena Souza</sub>](https://github.com/LorenaSouza2) | [<img src="https://avatars.githubusercontent.com/u/129390389?v=4" width=115><br><sub>Juliane Silva</sub>](https://github.com/JULIANESILV4) |  [<img src="https://avatars.githubusercontent.com/u/129390389?v=4" width=115><br><sub>Juliane Silva</sub>](https://github.com/JULIANESILV4) |
+| [<img src="https://avatars.githubusercontent.com/u/129389927?s=400&v=4" width=115><br><sub>Jennifer Nascimento</sub>](https://github.com/RochaJennifer) |  [<img src="https://avatars.githubusercontent.com/u/129390549?v=4" width=115><br><sub>Levi Sampaio</sub>](https://github.com/LeviSmp) |  [<img src="https://avatars.githubusercontent.com/u/131969913?v=4" width=115><br><sub>Lorena Souza</sub>](https://github.com/LorenaSouza2) | [<img src="https://avatars.githubusercontent.com/u/129390389?v=4" width=115><br><sub>Juliane Silva</sub>](https://github.com/JULIANESILV4) |  [<img src="https://avatars.githubusercontent.com/u/129390389?v=4" width=115><br><sub>Hanna Silva</sub>](https://github.com/hannasilv1) |
 | :---: | :---: | :---: | :---: | :---: | 
 
