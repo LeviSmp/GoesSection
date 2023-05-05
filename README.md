@@ -3,9 +3,7 @@
 <h4 align="center">
     :construction:  Projeto em construção  :construction:
 </h4>
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 O GoesSection é um site desenvolvido por estudantes, que focara no que seria bom e acrescentativo na comunidade escolar. Visando a propagação de iniciativas colaborativas e que criam relações entre os alunos para beneficiar-los.
  Tendo em vista que, deve-se focar em informações e atividades de cunho escolar. O site tem sub-páginas voltadas para jornal escolar, oficinas, atividades extracurriculares voltados para a área de informática.
  
@@ -20,8 +18,8 @@ O GoesSection é um site desenvolvido por estudantes, que focara no que seria bo
 - `HTML`
 - `CSS`
 - `Replit`
-- `Not Pad++`
-
+- `Not Pad++'
+- aaa
 # Autores
 
 | [<img src="https://avatars.githubusercontent.com/u/129389927?s=400&v=4" width=115><br><sub>Jennifer Nascimento</sub>](https://github.com/RochaJennifer) |  [<img src="https://avatars.githubusercontent.com/u/129390549?v=4" width=115><br><sub>Levi Sampaio</sub>](https://github.com/LeviSmp) |  [<img src="https://avatars.githubusercontent.com/u/131969913?v=4" width=115><br><sub>Lorena Souza</sub>](https://github.com/LorenaSouza2) | [<img src="https://avatars.githubusercontent.com/u/129390389?v=4" width=115><br><sub>Juliane Silva</sub>](https://github.com/JULIANESILV4) |
