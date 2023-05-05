@@ -3,7 +3,9 @@
 <h4 align="center">
     :construction:  Projeto em construção  :construction:
 </h4>
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 O GoesSection é um site desenvolvido por estudantes, que focara no que seria bom e acrescentativo na comunidade escolar. Visando a propagação de iniciativas colaborativas e que criam relações entre os alunos para beneficiar-los.
  Tendo em vista que, deve-se focar em informações e atividades de cunho escolar. O site tem sub-páginas voltadas para jornal escolar, oficinas, atividades extracurriculares voltados para a área de informática.
  
